@@ -1,0 +1,17 @@
+.nav-nuv{
+    background-color: #16708b;
+    color: white;
+}
+#user{
+    margin-top: 5rem;
+}
+.btn-crear{
+    padding: 4px 19px;
+    margin-bottom: 5px;
+}
+.buscar{
+    display: flex;
+    width: 50%;
+    text-align: end;
+    margin-left: auto;
+}
